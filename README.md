@@ -4,3 +4,4 @@
 - 💬 Ask me about Python and Java programming specifics
 - 📫 How to reach me: find me on linkedin through the link attached
 - ⚡ Theory will only take you so far
+- Junior Year Computer Science Student
