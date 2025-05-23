@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently trying to explore Deep Learning, Machine Learning and AI<br>💬 Ask me about Python and Java programming specifics<br>📫 How to reach me: find me on LinkedIn through the link attached<br>⚡ Theory will only take you so far<br>✨ Junior Year Computer Science Student
+🔭 I’m currently trying to explore Deep Learning, Machine Learning and AI<br>💬 Ask me about Python and Java programming specifics<br>📫 How to reach me: find me on LinkedIn through the link attached<br>⚡ Theory will only take you so far<br>✨ Final Year Computer Science Student
 
 <a href='https://kkeshav1101.github.io/'>My Website</a>
 
